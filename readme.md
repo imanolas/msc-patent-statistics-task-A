@@ -1,7 +1,7 @@
 # Assignment 1
 
 ## Author
-* **Ioannis Manolas** (132020)
+* **Ioannis Manolas**
 
 ---
 
